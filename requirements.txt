@@ -1,7 +1,7 @@
 chardet==2.3.0
 cryptography==1.7.1
 cycler==0.10.0
-httplib2==0.9.2
+httplib2==0.18.0
 idna==2.2
 keyring==10.1
 keyrings.alt==1.3
