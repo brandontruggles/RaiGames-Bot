@@ -27,4 +27,4 @@ SecretStorage==2.3.1
 six==1.11.0
 sklearn==0.0
 unattended-upgrades==0.1
-urllib3==1.24.2
+urllib3==1.26.5
